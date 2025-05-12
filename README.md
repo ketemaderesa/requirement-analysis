@@ -35,7 +35,7 @@ Non-functional requirements define how the system should perform. For the bookin
 
 Use case diagrams help visualize the interactions between users (actors) and the system. They highlight key system functionalities and their relations to different users.
 
-![Use Case Diagram]([usecase Diagram.drawio.png](https://github.com/ketemaderesa/requirement-analysis/blob/main/usecase%20Diagram.drawio.png))
+![Use Case Diagram](https://github.com/ketemaderesa/requirement-analysis/blob/main/alx-booking-uc.png)
 
 ## Acceptance Criteria
 
